@@ -67,5 +67,5 @@ This project helped reinforce:
 
 ## 📄 Project Presentation Slides
 
-🔗 [Click here to view PDF presentation]()
+🔗 [Click here to view PDF presentation](https://www.notion.so/Pomodoro-Timer-Slides-Pauline-Soledad-245e9e83ad6b80f2a218cad2d97f776a?source=copy_link)
 
